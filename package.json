@@ -2,6 +2,7 @@
   "name": "fullar",
   "version": "1.0.0",
   "description": "backend REST API",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
